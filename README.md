@@ -18,6 +18,11 @@ Task Assigned By Invictus
 ## Technology Used
 This Project is Created using  `React.Js` 
 
+## Component used
+#### Header.js
+#### FetchResult.js
+
+
 ## Project Structure
 
 #### `Fetch` Function is used to fetch the text from the api link
