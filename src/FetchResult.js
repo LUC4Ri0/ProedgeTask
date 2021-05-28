@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import axios from 'axios';
-// const baseUrl = "https://cors-anywhere.herokuapp.com/http://proedge.me/test.php?rollnumber=";
-const baseUrl = "http://proedge.me/test.php?rollnumber=";
+const baseUrl = "https://cors-anywhere.herokuapp.com/http://proedge.me/test.php?rollnumber=";
+// const baseUrl = "http://proedge.me/test.php?rollnumber=";
 
 let links = [];
 
