@@ -1,6 +1,15 @@
 # [PROEDGE-Task](https://proedge-task-round1.herokuapp.com/#/)
 ## LIVE Link on Herokuapp.com--> https://proedge-task-round1.herokuapp.com/#/
 
+# NOTE FOR GETTING OUTPUTS
+## Step1 --> Enter The value of roll number.
+## Step2 --> Click on Submit.
+## Step3 --> Right Click of mouse button and select inspect.
+## Step4 --> Go to console and click on the link (https://cors-anywhere.herokuapp.com/http://proedge.me/test.php?rollnumber=).
+## Step5 --> Click for request access on (Request temporary access to the demo server).
+## Step6 --> Now go to the previous page and refresh it.
+## Step7 --> Enter the roll number then click on submit.
+
 Task Assigned By Invictus
 ![](/f1.png)
 ![](/f2.png)
