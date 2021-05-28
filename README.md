@@ -1,18 +1,28 @@
-# Getting Started with Create React App
+# [PROEDGE-Task](https://proedge-task-round1.herokuapp.com/#/)
+## LIVE Link on Herokuapp.com--> https://proedge-task-round1.herokuapp.com/#/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Task Assigned By Invictus
+![](/f1.png)
+![](/f2.png)
+![](/f3.png)
+![](/f4.png)
 
-## Available Scripts
+### What are the Table Parameters?
 
-In the project directory, you can run:
+| Parameter  | Description                                                                                                                  |
+|------------|------------------------------------------------------------------------------------------------------------------------------|
+| "S.No"     | Should contain the Task Serial Number                                                                      |
+| "Roll Number"     | Entered value |
+| "Result"    | From backend|                
 
-### `npm start`
+## Technology Used
+This Project is Created using  `React.Js` 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Project Structure
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### `Fetch` Function is used to fetch the text from the api link
+#### used `map` to store the frequency of word.
+#### using `for loop`, table is created.
 
 ### `npm test`
 
